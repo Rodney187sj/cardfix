@@ -1,4 +1,4 @@
-// Import necessary packages
+src/lib/ocr.ts — OCR processing, if present in the repositorysrc/components/ScannerPanel.tsx — scanner interfacesrc/App.tsx// Import necessary packages
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
